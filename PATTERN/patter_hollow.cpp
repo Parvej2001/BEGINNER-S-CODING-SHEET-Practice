@@ -2,6 +2,7 @@
 using namespace std;
 
 int main()
+    
 {
     int row, col;
     cout << "Enter row and col.";
